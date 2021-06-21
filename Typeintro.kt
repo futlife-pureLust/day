@@ -1,4 +1,3 @@
 fun main(){
-    var experiencePoints: Int = "thirty-twogit"
-    println(experiencePoints)
+    println("測試")
 }
